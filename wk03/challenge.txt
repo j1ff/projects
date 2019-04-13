@@ -1,0 +1,3 @@
+sort an array and drawBars as it sorts
+
+read nums from a file (look up file i/o in c programming)
